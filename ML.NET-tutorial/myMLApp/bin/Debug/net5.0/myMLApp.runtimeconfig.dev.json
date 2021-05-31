@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ganan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ganan\\.nuget\\packages"
+    ]
+  }
+}
