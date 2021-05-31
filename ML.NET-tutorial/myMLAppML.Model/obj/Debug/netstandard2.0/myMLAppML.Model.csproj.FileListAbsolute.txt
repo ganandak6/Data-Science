@@ -1,0 +1,10 @@
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.deps.json
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.dll
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\bin\Debug\netstandard2.0\myMLAppML.Model.pdb
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csproj.AssemblyReference.cache
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfoInputs.cache
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.AssemblyInfo.cs
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.csproj.CoreCompileInputs.cache
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.dll
+C:\AATN\GAK\DataScience\projects\myMLAppML.Model\obj\Debug\netstandard2.0\myMLAppML.Model.pdb
